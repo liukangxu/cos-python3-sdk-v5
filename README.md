@@ -1,4 +1,7 @@
 # Tencent Cloud (QCloud) COS SDK
+
+## 请使用官方SDK：https://cloud.tencent.com/document/product/436/12269
+
 ## 介绍
 
 由于腾讯云官方至今（2018年3月16日）仍未提供 Python 3 下对象存储（下称“COS”）服务SDK，遍寻 GitHub 亦未发现功能完整的社区移植版本。故此，特花费一个下午完成了基于官方 Python 2 版本 SDK 的移植工作，希望能够帮助到同样被此问题折磨的朋友。
